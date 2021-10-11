@@ -55,15 +55,10 @@ namespace Scwitter
         {
             RefreshGuestToken();
             var result = Api.GetUserProfile($"https://api.twitter.com/graphql/4S2ihIKfF3xhp-ENxvUAfQ/UserByScreenName?variables=%7B%22screen_name%22%3A%22{username}%22%2C%22withHighlightedLabel%22%3Atrue%7D", guestToken);
-            return ParseProfile(result);
-        }
-
-        #region Response parse methods
-        private Profile ParseProfile(JsonObject result)
-        {
             return new Profile(result);
         }
 
+        #region Response parse methods
         private IEnumerable<Tweet> ParseTweets(JsonObject result)
         {
             if(result.TryGetValue("globalObjects", out object globalObj))
