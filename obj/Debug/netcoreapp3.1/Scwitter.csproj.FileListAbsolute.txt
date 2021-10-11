@@ -1,9 +1,0 @@
-C:\Users\konra\source\repos\CryptoSentimentAnalysis\Scwitter\bin\Debug\netcoreapp3.1\Scwitter.deps.json
-C:\Users\konra\source\repos\CryptoSentimentAnalysis\Scwitter\bin\Debug\netcoreapp3.1\Scwitter.dll
-C:\Users\konra\source\repos\CryptoSentimentAnalysis\Scwitter\obj\Debug\netcoreapp3.1\Scwitter.csprojAssemblyReference.cache
-C:\Users\konra\source\repos\CryptoSentimentAnalysis\Scwitter\obj\Debug\netcoreapp3.1\Scwitter.AssemblyInfoInputs.cache
-C:\Users\konra\source\repos\CryptoSentimentAnalysis\Scwitter\obj\Debug\netcoreapp3.1\Scwitter.AssemblyInfo.cs
-C:\Users\konra\source\repos\CryptoSentimentAnalysis\Scwitter\bin\Debug\netcoreapp3.1\Scwitter.pdb
-C:\Users\konra\source\repos\CryptoSentimentAnalysis\Scwitter\obj\Debug\netcoreapp3.1\Scwitter.csproj.CoreCompileInputs.cache
-C:\Users\konra\source\repos\CryptoSentimentAnalysis\Scwitter\obj\Debug\netcoreapp3.1\Scwitter.dll
-C:\Users\konra\source\repos\CryptoSentimentAnalysis\Scwitter\obj\Debug\netcoreapp3.1\Scwitter.pdb
